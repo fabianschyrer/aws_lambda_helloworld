@@ -1,4 +1,4 @@
-# aws_lambda_helloworld
+# README - aws_lambda_helloworld
 AWS Lambda Hello World test using AWS SAM Local
 
 git clone https://github.com/boto/boto3.git <br />
